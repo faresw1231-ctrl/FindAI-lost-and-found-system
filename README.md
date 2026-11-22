@@ -42,7 +42,7 @@ The system has been converted to a **pure, simple web application** designed spe
 
 ## 4. How to Run the App
 
-* **Open directly:** [`findai-web/index.html`](file:///c:/Users/fares/antigbot/findai-web/index.html) — double-click in File Explorer, opens in browser.
+download the zip file > extract > open in browser.
 
 ---
 
